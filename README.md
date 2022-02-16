@@ -1,4 +1,4 @@
-# cat
+# My Cat >_<
 I enjoyed my free time after work and played around a bit coding :)
 
 <a href="https://gabrielsalem.github.io/cat/" target="_blank">RESULT</a>
